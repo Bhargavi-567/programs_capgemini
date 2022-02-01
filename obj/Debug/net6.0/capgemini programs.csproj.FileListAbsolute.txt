@@ -1,0 +1,15 @@
+E:\capgemini\capgemini programs\bin\Debug\net6.0\capgemini programs.exe
+E:\capgemini\capgemini programs\bin\Debug\net6.0\capgemini programs.deps.json
+E:\capgemini\capgemini programs\bin\Debug\net6.0\capgemini programs.runtimeconfig.json
+E:\capgemini\capgemini programs\bin\Debug\net6.0\capgemini programs.dll
+E:\capgemini\capgemini programs\bin\Debug\net6.0\ref\capgemini programs.dll
+E:\capgemini\capgemini programs\bin\Debug\net6.0\capgemini programs.pdb
+E:\capgemini\capgemini programs\obj\Debug\net6.0\capgemini programs.csproj.AssemblyReference.cache
+E:\capgemini\capgemini programs\obj\Debug\net6.0\capgemini programs.GeneratedMSBuildEditorConfig.editorconfig
+E:\capgemini\capgemini programs\obj\Debug\net6.0\capgemini programs.AssemblyInfoInputs.cache
+E:\capgemini\capgemini programs\obj\Debug\net6.0\capgemini programs.AssemblyInfo.cs
+E:\capgemini\capgemini programs\obj\Debug\net6.0\capgemini programs.csproj.CoreCompileInputs.cache
+E:\capgemini\capgemini programs\obj\Debug\net6.0\capgemini programs.dll
+E:\capgemini\capgemini programs\obj\Debug\net6.0\ref\capgemini programs.dll
+E:\capgemini\capgemini programs\obj\Debug\net6.0\capgemini programs.pdb
+E:\capgemini\capgemini programs\obj\Debug\net6.0\capgemini programs.genruntimeconfig.cache
