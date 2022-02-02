@@ -6,7 +6,7 @@ namespace capgemini_programs
     class Specialchar
     {
 
-        static void Main()
+        static void Main5()
         {
             //string str;
             int alphabet, digit, specialchar, i;
