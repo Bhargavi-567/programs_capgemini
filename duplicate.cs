@@ -8,7 +8,7 @@ namespace capgemini_programs
 {
     class duplicate
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             int[] arr = { 1, 2, 3, 5, 5, 5, 6 };
             int count = 0;
