@@ -24,7 +24,7 @@ namespace capgemini_programs
     }
     class Program1
     {
-        static void Main(string[] args)
+        static void Main8(string[] args)
         {
             // Creating object for Welcome class
             // This will called default constructor
