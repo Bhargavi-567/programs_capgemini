@@ -22,7 +22,7 @@ namespace capgemini_programs
         }
 
 
-        static void Main(String[] args)
+        static void Main3(String[] args)
         {
 
             Functionoverload ob = new Functionoverload();
